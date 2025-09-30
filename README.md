@@ -1,4 +1,4 @@
-```markdown
+
 # PythonMinecraftLauncher_ai
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
@@ -262,4 +262,4 @@ A: 这通常是由于网络问题导致的文件损坏，库会自动重新下�
 ---
 
 **如果这个项目对你有帮助，请给个 ⭐️ 支持一下！**
-```
+
