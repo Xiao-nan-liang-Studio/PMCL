@@ -31,7 +31,7 @@
 
 1. **克隆仓库或下载源代码**
 ```bash
-git clone https://github.com/your-username/PythonMinecraftLauncher_ai.git
+git clone https://github.com/lijiayuapp/PythonMinecraftLauncher_ai.git
 cd PythonMinecraftLauncher_ai
 ```
 
@@ -243,7 +243,6 @@ A: 这通常是由于网络问题导致的文件损坏，库会自动重新下�
 - 📝 **改进文档**
 - 🔧 **提交代码修复**
 
-请查看 [CONTRIBUTING.md](CONTRIBUTING.md) 了解详细的贡献指南。
 
 ## 📄 许可证
 
@@ -255,9 +254,8 @@ A: 这通常是由于网络问题导致的文件损坏，库会自动重新下�
 
 ## 📞 联系方式
 
-- **项目主页**: https://github.com/your-username/PythonMinecraftLauncher_ai
-- **问题反馈**: https://github.com/your-username/PythonMinecraftLauncher_ai/issues
-- **邮箱**: your-email@example.com
+- **项目主页**: https://github.com/lijiayuapp/PythonMinecraftLauncher_ai/
+- **邮箱**: lijiayuappman@outlook.com
 
 ---
 
