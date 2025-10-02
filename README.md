@@ -1,5 +1,5 @@
 
-# PythonMinecraftLauncher_ai
+# PythonMinecraftLauncher
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -7,7 +7,7 @@
 
 ## ✨ 项目简介
 
-**PythonMinecraftLauncher_ai** 是一个基于 Python 开发的高度可扩展 Minecraft 版本下载器和启动器库。提供多线程下载、版本过滤、进度跟踪等高级功能，让 Minecraft 游戏管理变得更加简单高效。
+**PythonMinecraftLauncher** 是一个基于 Python 开发的高度可扩展 Minecraft 版本下载器和启动器库。提供多线程下载、版本过滤、进度跟踪等高级功能，让 Minecraft 游戏管理变得更加简单高效。
 
 ## 🚀 主要特性
 
@@ -31,8 +31,8 @@
 
 1. **克隆仓库或下载源代码**
 ```bash
-git clone https://github.com/lijiayuapp/PythonMinecraftLauncher_ai.git
-cd PythonMinecraftLauncher_ai
+git clone https://github.com/lijiayuapp/PythonMinecraftLauncher.git
+cd PythonMinecraftLauncher
 ```
 
 2. **安装依赖**
@@ -254,7 +254,7 @@ A: 这通常是由于网络问题导致的文件损坏，库会自动重新下�
 
 ## 📞 联系方式
 
-- **项目主页**: https://github.com/lijiayuapp/PythonMinecraftLauncher_ai/
+- **项目主页**: https://github.com/lijiayuapp/PythonMinecraftLauncher/
 - **邮箱**: lijiayuappman@outlook.com
 
 ---
